@@ -1,4 +1,4 @@
-*Text Summarization Tool (NLP)*:
+**Text Summarization Tool (NLP)**:
 
 📝 Text Summarization Tool (NLP)
       
@@ -25,12 +25,12 @@ A Python-based Text Summarization tool that supports both *Extractive* and *Abst
 ## ⚙ Installation
 1. Clone the repository:
 
-  git clone https://github.com/Manasi-Rathod/Text_Summarization_Tool.git
-  cd Text_Summarization_Tool
+        git clone https://github.com/Manasi-Rathod/Text_Summarization_Tool.git
+        cd Text_Summarization_Tool
 
 2. Install dependencies:
 
-  pip install -r requirements.txt
+        pip install -r requirements.txt
 
 ## 🖥 Usage
 
