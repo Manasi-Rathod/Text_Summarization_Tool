@@ -1,4 +1,4 @@
-** 📝 Text Summarization Tool (NLP)**
+📝 **Text Summarization Tool (NLP)**
 
 Text Summarization Tool (NLP) is a **Python-based** Text Summarization tool that supports both **Extractive** and **Abstractive** summarization techniques using **NLTK** and **BERT Transformers**.
       
